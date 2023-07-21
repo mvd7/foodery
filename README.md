@@ -37,4 +37,17 @@
  <p>Expiry: 10/24</p>
  <p>CVV: 212</p>
 
+<hr>
+![Main_Page](https://github.com/mvd7/foodery/assets/118620242/a860a4e1-6dd6-44ac-8929-5256229725c1)
 
+![Product_Modal](https://github.com/mvd7/foodery/assets/118620242/1d020ef9-bd9a-4d92-927f-c69fb4c692b9)
+
+![Cart](https://github.com/mvd7/foodery/assets/118620242/9b9f5f12-3504-4474-a631-b691c237d4ab)
+
+![Stripe_Checkout](https://github.com/mvd7/foodery/assets/118620242/00255e3c-817d-4057-9cfb-d5352fd3aac7)
+
+![Admin_Panel](https://github.com/mvd7/foodery/assets/118620242/4458ea9b-1f36-4437-ac2a-fe177eb57d69)
+
+![Add_Food](https://github.com/mvd7/foodery/assets/118620242/785f2b2d-e8d3-4f99-aa90-757df0062a1d)
+
+![Food_List](https://github.com/mvd7/foodery/assets/118620242/a26f5e57-9d6c-407b-af64-de88ba905cad)
