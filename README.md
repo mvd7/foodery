@@ -1,4 +1,4 @@
-<h1>Foodery Full-Stack Food Delivery Application</h1>
+<h1>Foodery Full-Stack Food Delivery Application (Still in development)</h1>
 
 <h2>MERN Stack</h2>
  <ul>
