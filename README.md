@@ -35,7 +35,7 @@
  <h2>Demo Credit Card For Stripe</h2>
  <p>Card Number: 4242 4242 4242 4242</p>
  <p>Expiry: 10/24</p>
- <p>CVV: 212</p>
+ <p>CVV: 123</p>
 
 <hr>
 ![Main_Page](https://github.com/mvd7/foodery/assets/118620242/a860a4e1-6dd6-44ac-8929-5256229725c1)
